@@ -1,0 +1,6 @@
+find \S+$			|||find <file>|||
+find \S+ on google$ |||find <search term> on google|||
+find \S+ on wiki$   |||find <search term> on wiki|||
+find \S+ on \S+\.\S+$ |||find <search term> on <website>|||
+find \S+ in +\S$	|||find <file> in <directory>|||
+find \S+ in \S+\.\S+$ |||find <search term> in <website>|||

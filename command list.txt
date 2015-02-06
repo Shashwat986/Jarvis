@@ -1,0 +1,46 @@
+run <program>
+find <file>
+find <search term> [on google]
+find <search term> on <website>
+find <keyword> in <file>
+find <keyword> in <webpage>
+find = search for = look for
+play <song>
+play <movie>
+play <playlist>
+google <search term>
+wiki <article>
+wiki <search term>
+urban <keyword>
+what's the meaning of <word>
+what's the <phrase>: google "the <phrase>"
+get my email
+get my gmail
+get my webmail
+get = open
+get <file> : google filename and download
+download <file>
+download <file> from <website>
+can you <command>
+please <command>
+save this <object>
+save <file>
+save
+
+no : Prev command was wrong
+
+
+1) my ___: check preferences folder
+2) the ___: check universal stuff folder
+3) this/here: add
+4) where/what: find
+5) 
+
+
+The question facing us is how do we program a computer to understand and obey us. In other words, how do we make a Jarvis (Tony Stark's manservant). It's very simple to visualise a Jarvis. This computer is effectively going to be like a child slave (well, with no feelings). It's a pretty brutal way to look at it, but it will suffice. We need to begin by teaching the child what will be expected of it: Finding files/keywords, opening websites/folders, calculating and extracting information, and saving information. Once these things are fed into the framework of the computer, we go into interpreting other commands in steps of these basic commands. When the child encounters something new, we are expected to tell it what that thing is, and how it fits its framework. It then adds it to its knowledge bank, and goes on. If later, there is a need for a new command, the child obviously has to be taught how to do it, and how the existing knowledge fits into it.
+
+1) Ask Mack how Nala's !google command works
+2) Use google/yahoo/bing etc. search engine results, and crawl through those results, rather than trying to find a good starting point to crawl from ... probably the "what's *" commands.
+
+
+
